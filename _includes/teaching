@@ -1,0 +1,54 @@
+<section class="thirteen columns">
+    <h1>Teaching Experience</h1>
+    <article>
+        <header>
+            <h1>Lecturer</h1>
+            <span><a href="http://kismayouniversity.com//">Faculty of Health Science, Kismayo University</a></span>
+            <span><address>Kismayo, Somalia</address><time>Since September, 2015</time></span>
+        </header>
+        <p>
+            Teach the medical and nursing students a number of subjects including anatomy, physiology, pathology, Obs Gyn, Anesthesia,
+           
+        </p>
+    </article>
+    <article>
+        <header>
+            <h1>General Doctor</h1>
+            <span>Kismayo General Hospital</span>
+            <span><address>Kismayo, Somalia</address><time> December, 2015 to December, 2016</time></span>
+        </header>
+        <p>
+            Work as primary care physician at the maternity department that provide medical consultation to wide range of patients and manage both emergent and complicated obstetric cases.
+        </p>
+    </article>
+    <article>
+        <header>
+            <h1>General Doctor</h1>
+            <span><a href="http://kismayouniversity.com/">Kismayo University Teaching Hospital</a></span>
+            <span><address>Kismayo, Somalia</address><time>April, 2015 to July, 2015</time></span>
+        </header>
+        <p>
+            Work as primary care physician responsible performing and assisting in surgeries, lead the surgical team, manage the healthcare activity of the hospital.
+        </p>
+    </article>
+    <article>
+        <header>
+            <h1>General Doctor</h1>
+            <span>Al-Towba Pharmacy</span>
+            <span><address>Bosaso, Somalia</address><time>September, 2014 to April, 2015</time></span>
+        </header>
+        <p>
+             Work as primary care physician with specific focus in ENT, responsible for diagnosis,treatment and management of patients.
+        </p>
+    </article>
+   <article>
+        <header>
+            <h1>Intern</h1>
+            <span><a href="http://http://jdyy.cn/">First Hospital of Jilin University</a></span>
+            <span><address>Changchun, China</address><time>June, 2013 to July, 2014</time></span>
+        </header>
+        <p>
+            Worked as resident intern responsible for patient triage, admission, discharge, and take part in academic presentation during rounds.
+        </p>
+    </article>
+</section>
