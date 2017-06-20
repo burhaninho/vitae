@@ -1,0 +1,30 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+#paginate: 5
+port: 4000
+safe: true
+url: http://burhaninho.github.io/vitae
+author: 
+
+# edit this section with your information
+# for a normal use at the base of the server change it to "/"
+baseurl: /vitae/
+title: Mohamed Burhan's Resume
+name: Mohamed Burhan
+email: me@burhaninho.com
+email_full: mailto:me@burhaninho.com
+website: burhaninho.com
+github: burhaninho
+twitter: burhaninho
+tel: +971 56 466 5808
+tel_full: tel:+971564665808
+google_maps: 'https://'
+address: APT 9, Building 2, Teachers Villa Via Via Health Club
+postcode: 00
+city: Madinat Zayed, Western Region, Abu Dhabi
+country: United Arab Emirates
+google_analytics: UA-
+
